@@ -95,7 +95,8 @@ In this repo, I will explore different ways of detecting financial fraud using a
 ## Roadmap
 
 - [ ] Select a finanical fraud dataset
-- [ ] Choose a method to explore
+- [ ] EDA on data set
+- [ ] Start building the first model
 
 See the [open issues](https://github.com/AJ-Seargeant/financial_fraud_detection/issues) for a full list of proposed features (and known issues).
 
