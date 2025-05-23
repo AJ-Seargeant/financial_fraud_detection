@@ -36,7 +36,7 @@
 <h3 align="center">financial_fraud_detection</h3>
 
   <p align="center">
-    Exploring macine learning and AI models to detect financial fraud
+    Exploring machine learning and AI models to detect financial fraud
     <br />
     <a href="[https://github.com/AJ-Seargeant/financial_fraud_detection]"><strong>Explore the docs »</strong></a>
     <br />
