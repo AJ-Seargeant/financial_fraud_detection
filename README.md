@@ -94,8 +94,8 @@ In this repo, I will explore different ways of detecting financial fraud using a
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Summerise inital Logistic Regression model performance
-- [ ] Improve Logistic Regression model performance - specifically fraud detection precision and recall
+- [x] Summerise inital Logistic Regression model performance 
+- [ ] Improve Logistic Regression model performance - specifically recall
 - [ ] Develop another ML model for fraud classification
 
 See the [open issues](https://github.com/AJ-Seargeant/financial_fraud_detection/issues) for a full list of proposed features (and known issues).
