@@ -97,6 +97,7 @@ In this repo, I will explore different ways of detecting financial fraud using a
 - [x] Summerise inital Logistic Regression model performance 
 - [x] Improve recall of Logistic Regression model
 - [ ] Build a Logistic Regression model from the ground up
+- [ ] Further improve Logistic Regression model performance
 - [ ] Use a Boosted model for credit card fraud classification
 - [ ] Explore time series analysis for credit card fraud classification
 - [ ] Use a deep learning for credit card fraud classification
