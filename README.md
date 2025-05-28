@@ -95,7 +95,8 @@ In this repo, I will explore different ways of detecting financial fraud using a
 ## Roadmap
 
 - [x] Summerise inital Logistic Regression model performance 
-- [x] Improve recall of Logistic Regression model 
+- [x] Improve recall of Logistic Regression model
+- [ ] Build a Logistic Regression model from the ground up
 - [ ] Use a Boosted model for credit card fraud classification
 - [ ] Explore time series analysis for credit card fraud classification
 - [ ] Use a deep learning for credit card fraud classification
