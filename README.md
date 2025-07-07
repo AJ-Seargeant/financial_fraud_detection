@@ -100,7 +100,8 @@ In this repo, I will explore different ways of detecting financial fraud using a
 - [x] Further improve Logistic Regression model performance
 - [x] Use a Random Forest Classifier model for fraud detection
 - [x] Improve Fraud recall of random forest classifier
-- [ ] Explore XGBoost Classifier model for fraud detection
+- [ ] Explore Gradient Boosted Classifier model for fraud detection
+- [x] Explore XGBoost Classifier model for fraud detection
 - [ ] Explore Isolation Forest Classifier model for fraud detection
 - [ ] Explore time series analysis for credit card fraud classification
 - [ ] Use a deep learning for credit card fraud classification
